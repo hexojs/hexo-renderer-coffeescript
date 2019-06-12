@@ -18,8 +18,7 @@
   "author": "Tommy Chen <tommy351@gmail.com> (http://zespia.tw)",
   "license": "MIT",
   "dependencies": {
-    "coffeescript": "^1.12.7",
-    "object-assign": "^4.1.1"
+    "coffeescript": "^1.12.7"
   },
   "devDependencies": {
     "chai": "^4.2.0",

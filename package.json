@@ -3,6 +3,13 @@
   "version": "0.2.0",
   "description": "CoffeeScript renderer plugin for Hexo",
   "main": "index",
+  "directories": {
+    "lib": "./lib"
+  },
+  "files": [
+    "lib/",
+    "index.js"
+  ],
   "scripts": {
     "eslint": "eslint .",
     "test": "mocha test/index.js",

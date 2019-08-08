@@ -1,6 +1,8 @@
 # hexo-renderer-coffeescript
 
-[![Build Status](https://travis-ci.org/hexojs/hexo-renderer-coffeescript.svg?branch=master)](https://travis-ci.org/hexojs/hexo-renderer-coffeescript)  [![NPM version](https://badge.fury.io/js/hexo-renderer-coffeescript.svg)](http://badge.fury.io/js/hexo-renderer-coffeescript) [![Coverage Status](https://coveralls.io/repos/hexojs/hexo-renderer-coffeescript/badge.svg)](https://coveralls.io/r/hexojs/hexo-renderer-coffeescript) 
+[![Build Status](https://travis-ci.org/hexojs/hexo-renderer-coffeescript.svg?branch=master)](https://travis-ci.org/hexojs/hexo-renderer-coffeescript)
+[![NPM version](https://badge.fury.io/js/hexo-renderer-coffeescript.svg)](https://www.npmjs.com/package/hexo-renderer-coffeescript)
+[![Coverage Status](https://coveralls.io/repos/hexojs/hexo-renderer-coffeescript/badge.svg)](https://coveralls.io/r/hexojs/hexo-renderer-coffeescript) 
 
 Add support for [CoffeeScript].
 

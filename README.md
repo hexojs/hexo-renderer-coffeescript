@@ -1,3 +1,7 @@
+# DEPRECATED!
+
+hexo-renderer-coffeescript has been deprecated.
+
 # hexo-renderer-coffeescript
 
 [![Build Status](https://travis-ci.org/hexojs/hexo-renderer-coffeescript.svg?branch=master)](https://travis-ci.org/hexojs/hexo-renderer-coffeescript)
